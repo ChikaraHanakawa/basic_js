@@ -1,2 +1,2 @@
 # basic_js
-JavaScriptを勉強するためのリポジトリ
+JavaScriptの勉強を記録するリポジトリ
